@@ -16,7 +16,7 @@
         "id": "langPref",
         "label": "Subtitle Language",
         "type": "enum",
-        "values": ["None","cz","sk"],
+        "values": ["None","cs","sk"],
         "default": "None"
     }
 ]
