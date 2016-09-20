@@ -17,7 +17,7 @@
 	<key>CFBundleVersion</key>
 	<string>1.0</string>
 	<key>PlexAgentAttributionText</key>
-	<string>A Titulky.com agent</string>
+	<string>České a slovenské titulky for Plex Media Server.</string>
 	<key>PlexFrameworkVersion</key>
 	<string>2</string>
 	<key>PlexPluginClass</key>

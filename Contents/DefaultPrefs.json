@@ -11,5 +11,12 @@
         "label": "Password",
         "default": "",
         "option": "hidden"
+    },
+    {
+        "id": "langPref",
+        "label": "Subtitle Language",
+        "type": "enum",
+        "values": ["None","cz","sk"],
+        "default": "None"
     }
 ]
